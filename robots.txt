@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hswar.github.io/website/sitemap.xml
