@@ -3,7 +3,7 @@
     <title>HSWAR</title>
     <link href="https://hswar.github.io/website/feed.xml" rel="self" />
     <link href="https://hswar.github.io/website" />
-    <updated>2025-08-23T18:09:28-04:00</updated>
+    <updated>2025-08-24T09:43:15-04:00</updated>
     <author>
         <name>HSWAR</name>
     </author>
@@ -16,46 +16,50 @@
         </author>
         <link href="https://hswar.github.io/website/enhancing-your-youtube-experience-ad-free-and-more/"/>
         <id>https://hswar.github.io/website/enhancing-your-youtube-experience-ad-free-and-more/</id>
+        <media:content url="https://hswar.github.io/website/media/posts/22/yt_img-2.jpg" medium="image" />
 
         <updated>2025-08-17T08:59:04-04:00</updated>
             <summary>
                 <![CDATA[
-                    For many of us, YouTube is a go-to platform for entertainment, learning,&hellip;
+                        <img src="https://hswar.github.io/website/media/posts/22/yt_img-2.jpg" alt="" />
+                    (Image credit: HSWAR) For many of us, YouTube is a go-to platform&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>For many of us, YouTube is a go-to platform for entertainment, learning, and much more. However, by default, YouTube does not offer an ad-free experience—unless you subscribe to YouTube Premium. Unfortunately, not everyone can afford this premium subscription. Additionally, some users who prioritize privacy may be hesitant to purchase YouTube Premium due to concerns about data collection and tracking.</p>
-<p>In this article, I’ll share some methods I use to enjoy YouTube content.<br><br>1. My Experiemce with Brave Browser + YouTube<br>2. Using Ad Blockers<br>3. Third-Party YouTube Clients</p>
-<h2><strong>My Experience with Brave Browser + YouTube</strong></h2>
-<h5><strong>How I use brave on iOS </strong></h5>
-<p>I mainly use the Brave browser on my iPhone to stream music from the YouTube website. Brave’s built‑in ad blocker gives me an entirely ad‑free experience, and its background‑playback feature keeps the audio running even when I switch to another app or lock my phone.</p>
-<p>On iOS, Brave lets me create playlists from any website. I use this capability to add YouTube songs to a personal playlist. Those playlists sync effortlessly with CarPlay, allowing me to pick any track or video from the list and enjoy it through car’s speakers.</p>
+                    <p><img src="https://hswar.github.io/website/media/posts/22/yt_img-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p style="font-size: 10px;">(Image credit: HSWAR)</p>
+<p style="font-size: 16px;">For many of us, YouTube is a go-to platform for entertainment, learning, and much more. However, by default, YouTube does not offer an ad-free experience—unless you subscribe to YouTube Premium. Unfortunately, not everyone can afford this premium subscription. Additionally, some users who prioritize privacy may be hesitant to purchase YouTube Premium due to concerns about data collection and tracking.</p>
+<p style="font-size: 16px;">In this article, I’ll share some methods I use to enjoy YouTube content.<br><br>1. My Experiemce with Brave Browser + YouTube<br>2. Using Ad Blockers<br>3. Third-Party YouTube Clients</p>
+<h4><strong>My Experience with Brave Browser + YouTube</strong></h4>
+<h6><strong>How I use brave on iOS </strong></h6>
+<p style="font-size: 16px;">I mainly use the Brave browser on my iPhone to stream music from the YouTube website. Brave’s built‑in ad blocker gives me an entirely ad‑free experience, and its background‑playback feature keeps the audio running even when I switch to another app or lock my phone.</p>
+<p style="font-size: 16px;">On iOS, Brave lets me create playlists from any website. I use this capability to add YouTube songs to a personal playlist. Those playlists sync effortlessly with CarPlay, allowing me to pick any track or video from the list and enjoy it through car’s speakers.</p>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://mega.nz/embed/LJAj0K6T#FjiUyGbYRfJpPEOKUA_gLgge1OvBeJnYax_4Lu-DBBQ" allowfullscreen="allowfullscreen"></iframe></div>
 <h5><strong>Brave on other platforms</strong></h5>
-<p>Although I mainly use Brave on iOS, I’ve tested Brave on a handful of other devices to see how the YouTube experience compares.</p>
-<p><strong>On Android phones</strong> the ad‑blocking works just like on iOS, removing pre‑rolls and banner ads, and background playback lets the audio continue when I switch apps or lock the screen. The downside is that the Android version of Brave doesn’t let me create playlists directly in the browser, and it isn’t available in Android Auto.</p>
-<p><strong>On desktop computers</strong>—whether running macOS, Windows, or Linux—the Brave browser provides an ad‑free YouTube experience.</p>
-<h1>Using Ad Blocker <strong>Desktop Browsers</strong></h1>
-<p>I mainly use an ad‑blocking extension on my desktop browsers. While there are many options on the market, my go‑to choice is <strong>uBlock Origin</strong>. It’s compatible with virtually every major browser and gives me a truly ad‑free experience. I install the uBlock Origin extension on both Chromium‑based browsers and Firefox‑based browsers, ensuring consistent protection no matter which platform I’m using. </p>
-<p>A lightweight version called <strong>uBlock Origin Lite</strong> is also available for Safari, although I haven’t tested it personally yet.</p>
-<h5>Chromium‑Based Browsers</h5>
-<ol>
+<p style="font-size: 16px;">Although I mainly use Brave on iOS, I’ve tested Brave on a handful of other devices to see how the YouTube experience compares.</p>
+<p style="font-size: 16px;"><strong>On Android phones</strong> the ad‑blocking works just like on iOS, removing pre‑rolls and banner ads, and background playback lets the audio continue when I switch apps or lock the screen. The downside is that the Android version of Brave doesn’t let me create playlists directly in the browser, and it isn’t available in Android Auto.</p>
+<p style="font-size: 16px;"><strong>On desktop computers</strong>—whether running macOS, Windows, or Linux—the Brave browser provides an ad‑free YouTube experience.</p>
+<h4>Using Ad Blocker <strong>Desktop Browsers</strong></h4>
+<p style="font-size: 16px;">I mainly use an ad‑blocking extension on my desktop browsers. While there are many options on the market, my go‑to choice is <strong>uBlock Origin</strong>. It’s compatible with virtually every major browser and gives me a truly ad‑free experience. I install the uBlock Origin extension on both Chromium‑based browsers and Firefox‑based browsers, ensuring consistent protection no matter which platform I’m using. </p>
+<p style="font-size: 16px;">A lightweight version called <strong>uBlock Origin Lite</strong> is also available for Safari, although I haven’t tested it personally yet.</p>
+<h6>Chromium‑Based Browsers</h6>
+<ol style="font-size: 16px;">
 <li>Open the Chrome Web Store: <a href="https://chromewebstore.google.com/"  class="extlink extlink-icon-1"  >https://chromewebstore.google.com/</a></li>
 <li>Search for “uBlock”.</li>
 <li>Click <strong>Add to Chrome</strong> (or the equivalent button for your Chromium browser) and confirm the installation.</li>
 </ol>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://mega.nz/embed/LBYhTC4K#lKsdBURj_MrN2yrM3GYH4fY01kToA_8rQwtvkGrLxsw" allowfullscreen="allowfullscreen"></iframe></div>
-<h5>Firefox‑Based Browsers</h5>
-<ol>
+<h6>Firefox‑Based Browsers</h6>
+<ol style="font-size: 16px;">
 <li>Visit the Mozilla Add‑ons site: <a href="https://addons.mozilla.org/en-US/firefox/extensions/"  class="extlink extlink-icon-1"  >https://addons.mozilla.org/en-US/firefox/extensions/</a></li>
 <li>Search for “uBlock Origin”.</li>
 <li>Click <strong>Add to Firefox</strong> and follow the prompts to enable the extension.</li>
 </ol>
-<div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://mega.nz/embed/KFx1EKgJ#pprlrdDeITSXZJiSsOWi995zX1KpJ-4pysvOx8dKYpA" allowfullscreen="allowfullscreen"></iframe></div>
-<h1><strong>Third-Party YouTube Clients<br></strong></h1>
-<p>I mainly rely on two third‑party YouTube clients: <strong>NewPipe</strong> on Android and <strong>FreeTube</strong> on my laptop. Both apps are popular alternatives to the official YouTube client and offer features such as ad‑free playback, background audio, and the ability to download videos for offline viewing.</p>
-<p>If you’d like to learn more about the full range of YouTube clients, feel free to check out my article on <a href="https://hswar.github.io/website/must-try-youtube-clients-for-desktop-and-android-devices/" target="_blank" rel="noopener noreferrer"></a><a href="https://hswar.github.io/website/must-try-youtube-clients-for-desktop-and-android-devices/" target="_blank" rel="noopener noreferrer">Must-Try YouTube Clients for Desktop and Android Devices</a>.</p>
+<p style="font-size: 16px;"><div class="post__iframe"><iframe loading="lazy" width="640" height="360" frameborder="0" src="https://mega.nz/embed/KFx1EKgJ#pprlrdDeITSXZJiSsOWi995zX1KpJ-4pysvOx8dKYpA" allowfullscreen="allowfullscreen"></iframe></div>
+<h4><strong>Third-Party YouTube Clients<br></strong></h4>
+<p style="font-size: 16px;">I mainly rely on two third‑party YouTube clients: <strong>NewPipe</strong> on Android and <strong>FreeTube</strong> on my laptop. Both apps are popular alternatives to the official YouTube client and offer features such as ad‑free playback, background audio, and the ability to download videos for offline viewing.</p>
+<p style="font-size: 16px;">If you’d like to learn more about the full range of YouTube clients, feel free to check out my article on <a href="https://hswar.github.io/website/must-try-youtube-clients-for-desktop-and-android-devices/" target="_blank" rel="noopener noreferrer"></a><a href="https://hswar.github.io/website/must-try-youtube-clients-for-desktop-and-android-devices/" target="_blank" rel="noopener noreferrer">Must-Try YouTube Clients for Desktop and Android Devices</a>.</p>
             ]]>
         </content>
     </entry>
