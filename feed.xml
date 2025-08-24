@@ -3,7 +3,7 @@
     <title>HSWAR</title>
     <link href="https://hswar.github.io/website/feed.xml" rel="self" />
     <link href="https://hswar.github.io/website" />
-    <updated>2025-08-24T10:31:00-04:00</updated>
+    <updated>2025-08-24T12:08:31-04:00</updated>
     <author>
         <name>HSWAR</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://hswar.github.io/website/youtube-ad-free-my-go-to-hacks/"/>
         <id>https://hswar.github.io/website/youtube-ad-free-my-go-to-hacks/</id>
         <media:content url="https://hswar.github.io/website/media/posts/24/yt_img.jpg" medium="image" />
+            <category term="Website &amp; App Recommendations"/>
 
         <updated>2025-08-24T10:30:12-04:00</updated>
             <summary>
@@ -206,7 +207,7 @@
         <link href="https://hswar.github.io/website/must-try-youtube-clients-for-desktop-and-android-devices/"/>
         <id>https://hswar.github.io/website/must-try-youtube-clients-for-desktop-and-android-devices/</id>
         <media:content url="https://hswar.github.io/website/media/posts/15/PXL_20250404_030040071.jpg" medium="image" />
-            <category term="App Recommendations"/>
+            <category term="Website &amp; App Recommendations"/>
 
         <updated>2025-04-03T16:06:28-04:00</updated>
             <summary>
