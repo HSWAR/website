@@ -26,7 +26,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 
 ### 2️⃣ Articles & Other Content  
-All written articles, blog posts, images, videos, and any other editorial material on this site are **© 2025 HSWAR** and are licensed under the **Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International (CC BY‑NC‑ND 4.0)**.
+All written articles, posts, images, videos, wallpapers, widgets and any other editorial material on this site are **© 2025 HSWAR** and are licensed under the **Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International (CC BY‑NC‑ND 4.0)**.
 
 > You may share the content **non‑commercially** with proper attribution, but you **may not modify, translate, or sell** it without explicit permission.
 
