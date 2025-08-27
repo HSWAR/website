@@ -13,7 +13,7 @@ All the CSS, theme assets, and any other code that powers this site are released
 > You may copy, modify, and redistribute the code, provided you also distribute the **complete source** under the same GPL‑v3 licence and retain the original copyright notice.
 
 #### GPL‑v3 licence text
-read [LICENSE](https://github.com/HSWAR/website/blob/main/LICENSE) for details.
+Read [LICENSE](https://github.com/HSWAR/website/blob/main/LICENSE) for details.
 
 ---
 
